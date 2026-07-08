@@ -1,4 +1,4 @@
-CLI AI Assistant using LLM API
+## CLI AI Assistant using LLM API
 
 ## 📌 Overview
 
