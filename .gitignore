@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables (keep your API keys and passwords safe!)
+.env
+.env.local
+
+# VS Code settings and workspace files
+.vscode/
+*.code-workspace
+
+# OS / KDE Plasma specific hidden files
+.directory
+*~
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
